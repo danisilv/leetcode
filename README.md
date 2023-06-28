@@ -1,4 +1,4 @@
-# leetcode
+# NomeDoRepositório
 
 ## Descrição
 
@@ -6,13 +6,13 @@ Este repositório é uma coleção de soluções para problemas encontrados no s
 
 ## Conteúdo do Repositório
 
-Este repositório abriga soluções para uma variedade de questões do LeetCode, desde questões fáceis até as mais difíceis. As soluções são categorizadas por tópicos como `arrays`, `strings`, `linked lists`, `trees`, `dynamic programming`, etc., facilitando a localização das resoluções de problemas que você está interessado em estudar.
+Este repositório abriga soluções para uma variedade de questões do LeetCode, desde questões fáceis até as mais difíceis. As soluções estão localizadas em pastas que são nomeadas de acordo com o ID da questão no LeetCode (por exemplo, `invert-binary-tree`).
 
 ## Como usar este Repositório
 
 1. **Encontre a questão no LeetCode**: No LeetCode, selecione a questão que deseja ver a solução.
 
-2. **Pesquise pela questão neste repositório**: Em nosso repositório, use a barra de pesquisa para procurar a questão que você selecionou no LeetCode.
+2. **Pesquise pela questão neste repositório**: Em nosso repositório, procure a pasta que corresponde ao ID da questão que você selecionou no LeetCode.
 
 3. **Estude a solução**: Analise a solução que fornecemos, entendendo como ela funciona e quais são as otimizações feitas.
 
@@ -22,8 +22,8 @@ Agradecemos contribuições de qualquer tipo. Se você encontrar um erro, tiver 
 
 Para contribuir com uma nova solução, certifique-se de seguir as diretrizes:
 
-- Coloque a solução no diretório correspondente (e.g. se a questão é sobre `arrays`, coloque-a no diretório `arrays`).
-- Nomeie o arquivo com o número da questão e o título (e.g. `001_TwoSum.ts`).
+- Crie uma nova pasta com o ID da questão (por exemplo, `invert-binary-tree`).
+- Dentro dessa pasta, coloque o arquivo da solução nomeado com o título da questão (por exemplo, `InvertBinaryTree.ts`).
 - Inclua um comentário no topo do arquivo descrevendo a questão.
 
 ## Licença
